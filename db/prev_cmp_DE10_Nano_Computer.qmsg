@@ -1,0 +1,13 @@
+{ "Info" "0" "" "qar.tcl version #1" {  } {  } 0 0 "qar.tcl version #1" 0 0 "0" 0 0 1581281493281 ""}
+{ "Info" "0" "" "Including '-use_file_set basic' by default" {  } {  } 0 0 "Including '-use_file_set basic' by default" 0 0 "0" 0 0 1581281493340 ""}
+{ "Info" "0" "" "All project revisions will be stored in common archive DE10_Nano_Computer_tmp_archive.qar" {  } {  } 0 0 "All project revisions will be stored in common archive DE10_Nano_Computer_tmp_archive.qar" 0 0 "0" 0 0 1581281493341 ""}
+{ "Info" "0" "" "Initializing files for 'DE1_SoC_Computer' revision" {  } {  } 0 0 "Initializing files for 'DE1_SoC_Computer' revision" 0 0 "0" 0 0 1581281495138 ""}
+{ "Info" "0" "" "File Set 'Source control' contains:" { { "Info" "0" "" "Project source and settings files" {  } {  } 0 0 "Project source and settings files" 0 0 "0" 0 0 1581281495244 ""} { "Info" "0" "" "Automatically detected source files" {  } {  } 0 0 "Automatically detected source files" 0 0 "0" 0 0 1581281495244 ""}  } {  } 0 0 "File Set 'Source control' contains:" 0 0 "0" 0 0 1581281495244 ""}
+{ "Warning" "0" "" "Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver" {  } {  } 0 0 "Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver" 0 0 "0" 0 0 1581281495764 ""}
+{ "Info" "0" "" "Archive will store files relative to the closest common parent directory" {  } {  } 0 0 "Archive will store files relative to the closest common parent directory" 0 0 "0" 0 0 1581281496091 ""}
+{ "Info" "IPRJ_ARC_TCL_TCL_USING_COMMON_DIR" "/home/robert/projects/XORTally/ " "Using common directory /home/robert/projects/XORTally/" {  } {  } 0 13213 "Using common directory %1!s!" 0 0 "Design Software" 0 -1 1581281496101 ""}
+{ "Info" "0" "" "----------------------------------------------------------" {  } {  } 0 0 "----------------------------------------------------------" 0 0 "0" 0 0 1581281496452 ""}
+{ "Info" "0" "" "----------------------------------------------------------" {  } {  } 0 0 "----------------------------------------------------------" 0 0 "0" 0 0 1581281496452 ""}
+{ "Info" "0" "" "Generated archive 'DE10_Nano_Computer_tmp_archive.qar'" {  } {  } 0 0 "Generated archive 'DE10_Nano_Computer_tmp_archive.qar'" 0 0 "0" 0 0 1581281496452 ""}
+{ "Info" "0" "" "----------------------------------------------------------" {  } {  } 0 0 "----------------------------------------------------------" 0 0 "0" 0 0 1581281496452 ""}
+{ "Info" "0" "" "----------------------------------------------------------" {  } {  } 0 0 "----------------------------------------------------------" 0 0 "0" 0 0 1581281496452 ""}
